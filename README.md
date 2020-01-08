@@ -1,6 +1,9 @@
 # Data Science Career Resources
 Compilation of resources and insights that helped me on my journey to data scientist
 
+### Concise Reference Article:
+https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63
+
 ### Introduction
 Data science can seem like an intimidating field to get into. I know this first hand. Throughout my journey, I've learned a lot. I've also documented a lot. Through this process, I’ve accumulated a bunch of useful resources that helped me with learning new concepts, doing impactful work, interviewing at top tech companies, and more. This repo is an attempt to ‘open-source’ my experience and insights becoming a data scientist. Enjoy! For more on me and what I'm up to, you can head over to my [website](https://www.conordewey.com/).
 
